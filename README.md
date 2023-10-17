@@ -13,7 +13,7 @@ The course registration system provides users with a service for course registra
 This system uses the SQLite library to build the database function of the system. The SQLite library is in the `lib` directory, its relative path is 
 
 ```
-INFO5100/lib/sqlite-jdbc-3.39.3.0.jar
+lib/sqlite-jdbc-3.39.3.0.jar
 ```
 
 
